@@ -1,9 +1,9 @@
 meta:
-	ADDON_NAME = ofxFbxSDK
+	ADDON_NAME = ofxFBX
 	ADDON_DESCRIPTION = Addon for importing fbx scenes using the autodesk fbx sdk
 	ADDON_AUTHOR = OF Team
 	ADDON_TAGS = "3d models"
-	ADDON_URL = http://github.com/arturoc/ofxFbxSDK
+	ADDON_URL = http://github.com/arturoc/ofxFBX
 
 common:
 	# dependencies with other addons, a list of them separated by spaces 
